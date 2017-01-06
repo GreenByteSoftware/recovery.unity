@@ -16,6 +16,10 @@ Enjoy.
 4. Press 2 to save changes if needed.
 5. Press 3 to quit.
 
-### Todo
+### Limitations
+
+1. Only works with text serialized scenes. Even if the scene does not load, unity should be able to reserialize it into text, you need to force text serialization in edit/editor settings.
+
+### TODO
 
 1. Make the interface easier and more efficent. It would work similarly like Midnight Commander.
